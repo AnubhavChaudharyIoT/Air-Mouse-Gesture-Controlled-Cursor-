@@ -1,0 +1,16 @@
+
+---
+
+## ⚙️ Setup & Installation
+
+### 1️⃣ Arduino
+- Install the library: `MPU6050_light` from Arduino Library Manager  
+- Upload the provided `.ino` code to Arduino Nano  
+
+### 2️⃣ Python
+Install dependencies:
+```bash
+pip install pyserial pyautogui
+
+Run the Script
+python air_mouse.py

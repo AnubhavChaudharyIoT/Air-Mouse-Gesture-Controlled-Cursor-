@@ -1,0 +1,7 @@
+Connect the MPU6050 to the Arduino Uno:
+
+VCC to 5V
+GND to GND
+SCL to A5
+SDA to A4
+AD0/ADO to GND (for I2C address 0x68)           
