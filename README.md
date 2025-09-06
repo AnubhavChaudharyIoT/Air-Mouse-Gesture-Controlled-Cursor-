@@ -20,11 +20,13 @@ Here’s a quick look at the Air Mouse in action:
 ## 📷 Demo Preview  
 *(Replace with your own screenshots or GIFs)*  
 
-image/2.jpg
-image/3.jpg
-![6](https://github.com/user-attachments/assets/d6e87aea-5e49-4cdf-8238-57ce5ca3cd3c)
-<img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/67de8d73-015c-4c71-9c41-d2e5fe51249e" />
-<img width="1919" height="1079" alt="2" src="https://github.com/user-attachments/assets/06b3895c-0a6b-413e-8112-58786a632a75" />
+![2](https://github.com/user-attachments/assets/350e00b1-825e-42c6-9f03-903d5c077689)
+![5](https://github.com/user-attachments/assets/abc972cb-9377-4ef7-b280-bbdfe932e209)
+![4](https://github.com/user-attachments/assets/31743f9a-f2f9-48f0-915c-de5d92eaa355)
+![3](https://github.com/user-attachments/assets/113dc04b-000f-49bf-888f-92463f1faca7)
+<img width="681" height="601" alt="1" src="https://github.com/user-attachments/assets/35c138fa-8226-4177-85ca-c5a51f80b17c" />
+
+
 
 ---
 
@@ -37,4 +39,5 @@ image/3.jpg
 ---
 
 ## 📂 Project Structure
+
 
