@@ -17,7 +17,14 @@ This project uses an **Arduino Nano** with an **MPU6050 accelerometer + gyroscop
 ## 🖼️ Demo
 Here’s a quick look at the Air Mouse in action:  
 
-*(Insert your demo video/GIF here)*
+## 📷 Demo Preview  
+*(Replace with your own screenshots or GIFs)*  
+
+image/2.jpg
+image/3.jpg
+![6](https://github.com/user-attachments/assets/d6e87aea-5e49-4cdf-8238-57ce5ca3cd3c)
+<img width="1919" height="1079" alt="1" src="https://github.com/user-attachments/assets/67de8d73-015c-4c71-9c41-d2e5fe51249e" />
+<img width="1919" height="1079" alt="2" src="https://github.com/user-attachments/assets/06b3895c-0a6b-413e-8112-58786a632a75" />
 
 ---
 
@@ -30,3 +37,4 @@ Here’s a quick look at the Air Mouse in action:
 ---
 
 ## 📂 Project Structure
+
